@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="style.css" media="screen">
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 0px 20px;
+}
+
+p {
+  color: #000000;
+  font-family: 'Arial', sans-serif;
+  font-size: 14px
+}
